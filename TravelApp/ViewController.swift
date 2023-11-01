@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var gjg = "fhfh"
+    var gjg = "fhfh11111111111111121312312312313123"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
